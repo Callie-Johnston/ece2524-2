@@ -1,0 +1,4 @@
+For your change_grade.py program:
+
+Nice use of functions for modularity. Only concern is importing fileinput
+and you don't use it.
